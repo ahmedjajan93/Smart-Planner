@@ -1,0 +1,27 @@
+# Core framework
+streamlit
+langchain
+openai
+python-dotenv
+langchain-community 
+langchain-openai
+openai
+
+# Embeddings & vector store (optional, if using memory/tools)
+tiktoken
+faiss-cpu
+
+# Visualization
+plotly
+graphviz  # For mind maps or flowchart-style rendering
+
+# Utilities
+requests
+beautifulsoup4
+
+# If using JSON/structured outputs
+pydantic
+
+# Optional - text analysis / enhancement
+nltk
+spacy
